@@ -33,4 +33,8 @@
     transform: scale(1.1) /*Que el boton crezca 1.1 veces su tamaño*/
 }
 
+.tabla-scroll{
+    overflow-x: auto;
+}
+
 
